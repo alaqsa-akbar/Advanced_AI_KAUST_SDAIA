@@ -1,1 +1,2 @@
 # Advanced_AI_KAUST_SDAIA
+This repo contains the files I worked on during the second bootcamp for KAUST Academy and SDAIA's AI bootcamps. The bootcamp introduces the learner to advanced AI concepts where they learn about Convelutional Neural Networks and their architectures (such as ResNet), transfer learning, daata augmentation, datasets and dataloaders, autoencoders and decoders, data segmentation, and more all with practical application on PyTorch.
